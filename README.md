@@ -1,5 +1,6 @@
 ## Conversor de Monedas
 Este proyecto implementa un convertidor de monedas que utiliza la API de ExchangeRate-API para obtener tasas de conversión en tiempo real.
+![Badge-Conversor](https://github.com/user-attachments/assets/3d3d5777-e7af-4795-af7b-2dd7b2c06957)
 
 ## Funcionalidades
 
